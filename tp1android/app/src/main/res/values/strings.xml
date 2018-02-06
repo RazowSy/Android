@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sophy</string>
+    <string name="creatbutton"> Boutton de création</string>
+    <string name="editauthor"> Nom auteur</string>
+    <string name="editname"> Titre livre</string>
+    <string name="edityear"> Année parution</string>
+    <string name="addbook"> Ajouter un livre </string>
+</resources>
